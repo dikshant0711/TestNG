@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T11:34:37 IST" name="Suite" finished-at="2024-02-28T11:34:37 IST" duration-ms="82">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T11:34:37 IST" name="Test" finished-at="2024-02-28T11:34:37 IST" duration-ms="82">
+      <class name="Axis.a.priority">
+        <test-method signature="testcase1()[pri:0, instance:Axis.a.priority@2b6faea6]" started-at="2024-02-28T11:34:37 IST" name="testcase1" finished-at="2024-02-28T11:34:37 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method signature="testcase2()[pri:0, instance:Axis.a.priority@2b6faea6]" started-at="2024-02-28T11:34:37 IST" name="testcase2" finished-at="2024-02-28T11:34:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method signature="testcase3()[pri:1, instance:Axis.a.priority@2b6faea6]" started-at="2024-02-28T11:34:37 IST" name="testcase3" finished-at="2024-02-28T11:34:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- Axis.a.priority -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

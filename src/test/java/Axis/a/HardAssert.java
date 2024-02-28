@@ -12,7 +12,6 @@ import org.testng.annotations.Test;
 
 
 public class HardAssert {
-	@SuppressWarnings("deprecation")
 	@Test
 	public void testhardassert() throws InterruptedException
 	{

@@ -21,10 +21,9 @@
        <class name="TestNG.InvokeEdge"/>
         <class name="TestNG.Grouping"/> -->
         
-        <class name="TestNG.InvokeChromeBrowser"/>
-         <class name="TestNG.InvokeEdge"/>
-           <class name="TestNG.ListenerTestClass"/>
-            <class name="TestNG.InvokeFirefox"/>
+      
+           <class name="Axis.a.priority"/>
+       
            
            
          
